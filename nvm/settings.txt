@@ -1,0 +1,2 @@
+root: D:\Chris\web\mbogiwood-backend\nvm
+path: D:\Chris\web\mbogiwood-backend\nodejs
